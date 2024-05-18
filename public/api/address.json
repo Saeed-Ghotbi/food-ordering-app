@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "title": "Home",
+        "default": true,
+        "address": {
+            "lat": 1.357334,
+            "lng": 103.821417,
+            "formatted_address" : "Wolfson Institute of Preventive Medicine, London EC1M 7BA, UK"
+        }
+    }
+  
+]

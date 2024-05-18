@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "pizza",
+      "slug": "pizza",      
+      "icon": "/assets/images/category/icon/pizza.png"      
+    },
+    {
+      "id": 2,
+      "name": "sandwich",
+      "slug": "sandwich",      
+      "icon": "/assets/images/category/icon/sandwich.png"    
+    },
+    {
+      "id": 3,
+      "name": "Percy-food",
+      "slug": "Percy-food",     
+      "icon": "/assets/images/category/icon/hot-pot.png"
+    },
+    {
+      "id": 4,
+      "name": "burger",
+      "slug": "burger",      
+      "icon": "/assets/images/category/icon/burger.png" 
+    },
+    {
+      "id": 5,
+      "name": "appetizer",
+      "slug": "appetizer",      
+      "icon": "/assets/images/category/icon/snack.png"     
+    },
+    {
+      "id": 6,
+      "name": "drink",
+      "slug": "drink",      
+      "icon": "/assets/images/category/icon/drink.png"
+    } 
+   ]
+}

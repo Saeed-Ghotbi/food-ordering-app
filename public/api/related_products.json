@@ -1,0 +1,78 @@
+[
+    {
+    "id": "product20",
+    "name": "نوشابه قوطی کوکا",
+    "slug": "Hamburger10",
+    "categoryId":6,    
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/pepsi.jpg",
+      "original": "/assets/images/products/pepsi.jpg"
+    },    
+    "price": 30000    
+  },
+    {
+    "id": "product21",
+    "name": "نوشابه قوطی فانتا",
+    "slug": "Hamburger10",
+    "categoryId":6,    
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/pepsi.jpg",
+      "original": "/assets/images/products/pepsi.jpg"
+    },    
+    "price": 30000    
+
+  },
+    {
+    "id": "product22",
+    "name": "نوشابه قوطی اسپرایت",
+    "slug": "Hamburger10",
+    "categoryId":6,    
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/pepsi.jpg",
+      "original": "/assets/images/products/pepsi.jpg"
+    },    
+        "price": 30000    
+
+  },
+    {
+    "id": "product23",
+    "name": "دوغ قوطی خوشگوار",
+    "slug": "Hamburger10",
+    "categoryId":6,    
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/pepsi.jpg",
+      "original": "/assets/images/products/pepsi.jpg"
+    },    
+        "price": 30000    
+
+  },
+    {
+    "id": "product24",
+    "name": "آب معدنی",
+    "slug": "Hamburger10",
+    "categoryId":6,    
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/pepsi.jpg",
+      "original": "/assets/images/products/pepsi.jpg"
+    },    
+        "price": 30000    
+
+  },
+    {
+    "id": "product25",
+    "name": "قوطی هی دی لیمو",
+    "slug": "Hamburger10",
+    "categoryId":6,    
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/pepsi.jpg",
+      "original": "/assets/images/products/pepsi.jpg",
+      "price": 30000    
+    }    
+  }
+]

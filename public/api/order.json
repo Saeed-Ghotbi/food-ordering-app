@@ -1,0 +1,38 @@
+{
+  "id": 1,
+  "tracking_number": "XRQ4567",
+  "customer": {
+    "id": 1,
+    "email": "customer@demo.com"
+  },
+  "total": 132,
+  "shipping_fee": 17,
+  "payment_gateway": "پرداخت نقدی",
+  "products": [
+    {
+      "id": 1,
+      "name": "پیتزا 2 نفره ",
+      "quantity": 10,
+      "price": 5
+    },
+    {
+      "id": 2,
+      "name": "همبرگر خانواده",
+      "quantity": 10,
+      "price": 15
+    },
+    {
+      "id": 3,
+      "name": "نوشابه فانتا",
+      "quantity": 5,
+      "price": 25
+    },
+    {
+      "id": 4,
+      "name": "قارچ سوخاری",
+      "quantity": 10,
+      "price": 35
+    }
+  ],
+  "note": ""
+}
