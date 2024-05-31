@@ -1,4 +1,4 @@
-import DownloadApps from '@components/common/download-apps';
+// import DownloadApps from '@components/common/';
 import PageHeroSection from '@components/ui/page-hero-section';
 import ProductsPageContent from './products-page-content';
 import { Metadata } from 'next';
@@ -25,7 +25,7 @@ export default async function Page({
       <Suspense fallback={<SearchBarFallback />}>
         <ProductsPageContent lang={lang} />
       </Suspense>
-      <DownloadApps lang={lang} />
+      {/* <DownloadApps lang={lang} /> */}
     </>
   );
 }

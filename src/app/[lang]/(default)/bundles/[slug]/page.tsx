@@ -1,6 +1,6 @@
 import Container from '@components/ui/container';
 import { Metadata } from 'next';
-import DownloadApps from '@components/common/download-apps';
+// import DownloadApps from '@components/common/download-apps';
 import ProductBundleGrid from '@components/product/product-bundle-grid';
 import BundleHeroSection from '@components/bundle/bundle-hero-section';
 import BannerGridTwo from '@components/common/banner-grid-two';
@@ -30,7 +30,7 @@ export default async function Page({
           lang={lang}
         />
       </Container>
-      <DownloadApps lang={lang} />
+      {/* <DownloadApps lang={lang} /> */}
     </>
   );
 }
